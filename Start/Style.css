@@ -100,7 +100,7 @@ tr, td {
 }
 
 td:hover a {
-	background-color: #EBEBEB;
+	background-color: #FFFFFF;
 	box-shadow: 0 0 4px #FFFFFF;
 	color: #000000;
 	transition: 0.3s ease;
